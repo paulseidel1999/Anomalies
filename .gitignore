@@ -1,0 +1,11 @@
+Input/*
+!Input/.gitkeep
+
+Output/*
+!Output/.gitkeep
+
+Temp/*
+!Temp/.gitkeep
+
+Scripts\ (Stand\ 07.01.2026)/*
+!Scripts\ (Stand\ 07.01.2026)/.gitkeep
