@@ -1,11 +1,22 @@
-Input/*
-!Input/.gitkeep
+# Ignore data / exports
+*.txt
+*.csv
+*.parquet
+*.dta
 
-Output/*
-!Output/.gitkeep
+# Optional (empfehlenswert)
+*.zip
+*.tar
+*.gz
+*.7z
+*.pkl
+*.pickle
+*.h5
+*.hdf5
 
-Temp/*
-!Temp/.gitkeep
-
-Scripts\ (Stand\ 07.01.2026)/*
-!Scripts\ (Stand\ 07.01.2026)/.gitkeep
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
